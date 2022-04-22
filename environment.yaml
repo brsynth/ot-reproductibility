@@ -1,0 +1,9 @@
+name: opentrons
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python > 3.6
+  - opentrons
+  - pyyaml
+  - ipython
